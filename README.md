@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **App development with flutter**
 
-- 📫 How to reach me **tripathiastha369@gmail.com**
+- 📫 Reach me through **tripathiastha369@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
