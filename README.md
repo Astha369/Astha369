@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Astha Tripathi</h1>
 <h3 align="center">App Developer & ML Enthusiast</h3>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/Astha369/Weather)
+- 🔭 I’m currently working on [Weather App](https://github.com/Astha369/Weather_App)
 
 - 🌱 I’m currently learning **Machine Learning & Full Stack Flutter Development**
 
