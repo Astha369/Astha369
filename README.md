@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Full Stack Flutter Development**
 
-- 📫 reach me through **tripathiastha369@gmail.com**
+- 📫 reach me through [mail](tripathiastha369@gmail.com)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ttyypSPbb3zFnLTgRXOYpWNZ0tZkgfnH/view?usp=sharing)
 
