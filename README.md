@@ -1,6 +1,10 @@
 <h1 align="center">Hola 👋, Yo soy Astha Tripathi</h1>
 <h3 align="center">App Developer & ML Enthusiast</h3>
 
+<center>
+[![@astha369's Holopin board](https://holopin.io/api/user/board?user=astha369)](https://holopin.io/@astha369)
+</center>
+
 - 🌱 I’m currently learning **Machine Learning & Full Stack Flutter Development**
 
 - 📫 Reach me through [mail](mailto:tripathiastha369@gmail.com)
