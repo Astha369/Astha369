@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hola 👋, Yo soy Astha Tripathi</h1>
 <h3 align="center">App Developer & ML Enthusiast</h3>
 
@@ -31,3 +32,4 @@
 
 
 
+</center>
