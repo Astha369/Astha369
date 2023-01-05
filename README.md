@@ -27,9 +27,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Astha369&count_private=true&show_icons=true&theme=purple-punch&hide=issues&include_all_commits=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Astha369&theme=purple-punch&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astha369&theme=purple-punch&hide=makefile&&count_private=true&layout=compact&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Astha369&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Astha369&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astha369&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true)
 <br><br>
 
   
