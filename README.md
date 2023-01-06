@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Astha369&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Astha369&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Astha369&theme=radical)](https://git.io/streak-stats)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astha369&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true)
 <br><br>
 
