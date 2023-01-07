@@ -6,7 +6,7 @@
 
 - 📫 Reach me through [mail](mailto:tripathiastha369@gmail.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1KU97vmOBg_T0FMShlFVnZcFEZHH4IV6R/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/10ja7IS5vhlBUwum4y7gcC_YsO8jcv0pG/view?usp=share_link)
 
 - ⚡ Fun fact **I speak sarcasm.**
 
