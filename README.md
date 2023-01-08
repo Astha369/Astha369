@@ -2,6 +2,8 @@
 <h1 align="center">Hola 👋, Yo soy Astha Tripathi</h1>
 <h3 align="center">App Developer & ML Enthusiast</h3>
 
+<img src="https://github.com/Astha369/Astha369/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png"><br>
+
 - 🌱 I’m currently learning **Machine Learning & Full Stack Flutter Development**
 
 - 📫 Reach me through [mail](mailto:tripathiastha369@gmail.com)
