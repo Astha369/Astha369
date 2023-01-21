@@ -1,7 +1,7 @@
 <center>
 
 <img src="https://github.com/Astha369/Astha369/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png"><br>
-<h1>hola, I'm Astha Tripathi</h1>
+<!-- <h1>hola, I'm Astha Tripathi</h1> -->
 
   
 <h3 align="center">App Developer & ML Enthusiast</h3>
