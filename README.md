@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tripathiastha369@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10ja7IS5vhlBUwum4y7gcC_YsO8jcv0pG/view?usp=share_link](https://drive.google.com/file/d/10ja7IS5vhlBUwum4y7gcC_YsO8jcv0pG/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/10ja7IS5vhlBUwum4y7gcC_YsO8jcv0pG/view?usp=share_link)
 
 - ⚡ Fun fact **Codes are better than Humans**
 
