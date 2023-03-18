@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Astha Tripathi</h1>
+<img src="https://github.com/Astha369/Astha369/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png">
 <h3 align="center">Flutter Developer and ML Enthusiast</h3>
 
 - 🔭 I’m currently working on [Alertly](https://github.com/Astha369/alertly_astha)
