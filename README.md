@@ -1,39 +1,25 @@
-<center>
+<h1 align="center">Hi 👋, I'm Astha Tripathi</h1>
+<h3 align="center">Flutter Developer and ML Enthusiast</h3>
 
-<img src="https://github.com/Astha369/Astha369/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png"><br>
-<!-- <h1>hola, I'm Astha Tripathi</h1> -->
+- 🔭 I’m currently working on [Alertly](https://github.com/Astha369/alertly_astha)
 
-  
-<h3 align="center">App Developer & ML Enthusiast</h3>
+- 🌱 I’m currently learning **DSA in C++ and Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning & Full Stack Flutter Development**
+- 📫 How to reach me **tripathiastha369@gmail.com**
 
-- 📫 Reach me through [mail](mailto:tripathiastha369@gmail.com)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10ja7IS5vhlBUwum4y7gcC_YsO8jcv0pG/view?usp=share_link](https://drive.google.com/file/d/10ja7IS5vhlBUwum4y7gcC_YsO8jcv0pG/view?usp=share_link)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/10ja7IS5vhlBUwum4y7gcC_YsO8jcv0pG/view?usp=share_link)
-
-- ⚡ Fun fact **I speak sarcasm.**
+- ⚡ Fun fact **Codes are better than Humans**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/astha369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="astha369" height="30" width="40" /></a>
-<a href="https://dev.to/astha369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="astha369" height="30" width="40" /></a>
-<a href="https://twitter.com/darknight_027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darknight_027" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asthatripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asthatripathi" height="30" width="40" /></a>
-<a href="https://medium.com/darknight27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="darknight27" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astha369&show_icons=true&locale=en&layout=compact" alt="astha369" /></p>
 
-# 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astha369&show_icons=true&locale=en" alt="astha369" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=Astha369&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Astha369&theme=radical)](https://git.io/streak-stats)<br> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astha369&theme=radical&hide=makefile&&count_private=true&layout=compact&show_icons=true)
-<br><br>
- 
-<!--  [![](https://visitcount.itsvg.in/api?id=Astha369&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-</center>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astha369&" alt="astha369" /></p>
