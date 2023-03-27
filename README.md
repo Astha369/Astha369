@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **Codes are better than Humans**
 
+- 💻 The Code Fact **Leetcode Streaks much satisfying than SnapChat**
+                      PS.: I'm open to both 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
