@@ -1,16 +1,12 @@
 <img src="https://github.com/Astha369/Astha369/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png">
 <h3 align="center">Flutter Developer and ML Enthusiast</h3>
 
-- 🔭 I’m currently working on [Alertly](https://github.com/Astha369/alertly_astha)
-
-- 🌱 I’m currently learning **DSA in C++ and Machine Learning**
 
 - 📫 How to reach me **tripathiastha369@gmail.com**
 
 - ⚡ Fun fact **Codes are better than Humans**
 
-- 💻 The Code Fact **Leetcode Streaks much more satisfying than SnapChat** 
-                      PS.: I'm open to both 
+- 💻 Code Fact **Leetcode Streaks much more satisfying than SnapChat** 
 
 
 
